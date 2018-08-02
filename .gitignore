@@ -1,6 +1,9 @@
 *.npy
 runs/
 
+# PyCharm
+.idea/
+
 # Created by https://www.gitignore.io/api/python,ipythonnotebook
 
 ### Python ###
